@@ -1,4 +1,5 @@
-md - arquivo markdown
+md - arquivo markdown 
+Projeto desenvolvido na Imersão Dev com Google Gemini da Alura
 
 # Jogos 2023 - Busca Simples de Jogos
 
